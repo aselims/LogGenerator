@@ -1,4 +1,4 @@
-package random1;
+package co.rahala.selim.logme;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
